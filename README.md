@@ -1,2 +1,2 @@
 # website-ghaizanraihan-muhammadghaizanarraihan
-<title>ghaizan<title/>
+<title>ghaizan</title>title>
